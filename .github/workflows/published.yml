@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Published
-        run: I am an action that was published
+        run: echo I am an action that was published
 
       # Runs a set of commands using the runners shell
       - name: See Event data
